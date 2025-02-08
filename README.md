@@ -11,8 +11,11 @@ Radiolytica is an AI-driven medical imaging platform designed to assist radiolog
 📄 CSV-Based Results Storage – Saves patient details, uploaded images, and AI predictions for record-keeping.
 
 🏥 Use Case
+
 Radiologists & Hospitals – Provides AI-powered second opinions for quick diagnosis.
+
 Telemedicine – Supports remote diagnosis and patient monitoring.
+
 Public Health – Useful in mass screening programs for diseases like tuberculosis (TB).
 
 📸 Sample Output
