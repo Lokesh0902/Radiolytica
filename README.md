@@ -8,12 +8,14 @@ Radiolytica is an AI-driven medical imaging platform designed to assist radiolog
 📂 File Upload System – Allows users to upload X-ray images for real-time analysis.
 👨‍⚕️ Role-Based Access – Separate dashboards for radiologists and doctors with customized insights.
 📄 CSV-Based Results Storage – Saves patient details, uploaded images, and AI predictions for record-keeping.
+
 🛠️ Tech Stack
 Python, Flask – Backend API
 TensorFlow, Keras – Deep Learning Model
 OpenCV, NumPy, Matplotlib – Image Processing & Visualization
 HTML, CSS, Bootstrap – Frontend UI
 SQLite / CSV – Data Storage
+
 🏥 Use Case
 Radiologists & Hospitals – Provides AI-powered second opinions for quick diagnosis.
 Telemedicine – Supports remote diagnosis and patient monitoring.
