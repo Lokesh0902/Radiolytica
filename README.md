@@ -48,6 +48,7 @@ User Upload X-ray → Preprocessing → → Lung Segmentation → → Disease Cl
 ---
 
 📌 Notes
+
 Lung segmentation masks are applied before Grad-CAM to focus only on relevant areas.
 
 The project uses mixed precision training and warm-up cosine decay learning rate schedules for optimized GPU training.
