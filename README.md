@@ -34,7 +34,7 @@ User Upload X-ray → Preprocessing → → Lung Segmentation → → Disease Cl
 | Lung Segmentation          | U-Net (Custom trained)          |
 | Cardiomegaly Detection     | CTR (image-based calculation)   |
 | Image Preprocessing        | CLAHE, Gaussian Blur, Canny     |
-| Deployment (optional)      | Docker / Streamlit / Heroku     |
+
 
 ---
 
